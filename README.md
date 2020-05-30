@@ -88,6 +88,7 @@ You can install Heroku CLI with commands below -
 - For the server side we need two things:
     1. Creating a list of dependencies (which is requirements.txt)
     2. Procfile
+
 These two files are already creeated in the repo for you.
 
 ### Step 5 - Setting-up git:
