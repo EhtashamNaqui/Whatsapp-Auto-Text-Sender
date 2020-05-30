@@ -1,4 +1,2 @@
-//PUT YOUR TWILIO AND APScheduler VERSIONS AND REMOVE THIS COMMENT.
-
 twilio==6.41.0
 APScheduler==3.6.3
