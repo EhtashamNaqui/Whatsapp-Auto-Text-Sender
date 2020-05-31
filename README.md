@@ -5,7 +5,7 @@ This Repository will help you to automate a text message to a specific phone num
 - Copy all the files in this repository except _pycache_ to a folder and open VS Code or any other IDE in that folder.
 - twilio (https://www.twilio.com)
 - Advance Python Scheduler (https://apscheduler.readthedocs.io/en/stable/)
-    - Install Guide (https://apscheduler.readthedocs.io/en/stable/userguide.html)
+- Install Guide (https://apscheduler.readthedocs.io/en/stable/userguide.html)
 - Heroku (https://www.heroku.com)
 
 You can also use `pip` to install heroku and aps -
